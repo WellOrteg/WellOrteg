@@ -1,13 +1,18 @@
-👋 E aí, galera! Bem-vindos ao meu cantinho no GitHub! Sou o Wellington, desenvolvedor back-end focado em Java com Spring Boot e SQL. 💻
+# 👋 Bem-vindos ao meu GitHub!
 
-Aqui você vai encontrar projetos e códigos relacionados ao meu trabalho com essas tecnologias. Tô sempre em busca de criar soluções robustas e eficientes.
+## Sobre Mim
+Sou o Wellington, um desenvolvedor back-end focado em Java com Spring Boot e SQL. Aqui você encontrará projetos e códigos relacionados ao meu trabalho com essas tecnologias. Sempre busco criar soluções robustas e eficientes.
 
-Aprender é minha vibe constante. Melhorar minhas habilidades em código, arquitetura de software e práticas de desenvolvimento é meu lema. Encaro desafios complexos de frente, sempre buscando soluções criativas.
+## Aprendizado Constante
+Aprender é minha busca contínua. Estou sempre buscando aprimorar minhas habilidades em programação, arquitetura de software e práticas de desenvolvimento. Encaro desafios complexos com criatividade.
 
-Sou da turma que curte trabalho em equipe e compartilhar conhecimento. Fique à vontade pra explorar meus projetos, dar sugestões e propor melhorias.
+## Colaboração é a Chave
+Adoro trabalho em equipe e compartilhar conhecimento. Explore meus projetos, dê sugestões e proponha melhorias. Estou aberto a feedback e discussões construtivas.
 
-Me acha pelo e-mail <bold>wellortega46@gmail.com</bold> ou no inkedIn www.linkedin.com/in/wellortega. Tamo junto pra bater um papo sobre tecnologia, projetos ou só trocar uma ideia.
+## Contato
+Você pode me encontrar pelo e-mail wellortega46@gmail.com ou pelo [LinkedIn](www.linkedin.com/in/wellortega). Vamos trocar ideias sobre tecnologia, projetos ou qualquer coisa interessante.
 
-Bora criar coisas incríveis juntos! Valeu pela visita no meu GitHub! 😄🌟
+Bora criar coisas incríveis juntos! Agradeço pela visita! 😄🌟
+
 
 
