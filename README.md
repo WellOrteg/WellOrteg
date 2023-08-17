@@ -24,7 +24,7 @@ Adoro trabalho em equipe e compartilhar conhecimento. Explore meus projetos, dê
   <a href="https://www.instagram.com/wellorteg" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-Você pode me encontrar pelo e-mail wellortega46@gmail.com ou pelo [LinkedIn](www.linkedin.com/in/wellortega). Vamos trocar ideias sobre tecnologia, projetos ou qualquer coisa interessante.
+Vamos trocar ideias sobre tecnologia, projetos ou qualquer coisa interessante.
 
 Bora criar coisas incríveis juntos! Agradeço pela visita! 😄🌟
 
